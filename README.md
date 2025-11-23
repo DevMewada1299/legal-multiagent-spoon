@@ -2,6 +2,8 @@
 
 This project is a Streamlit web application that uses a multi-agent AI system to analyze legal documents. Users can upload a PDF, and the application will identify and categorize key risks and obligations within the text, providing a comprehensive summary and a clause-by-clause analysis.
 
+For trying it out please go to this link for a sample document and a key : https://drive.google.com/drive/folders/1HMsPRjaaqmop1GLCFYcn6p5q3CN31gzu?usp=sharing (Prototype)
+
 ## Features
 
 *   **PDF Document Upload**: Easily upload legal documents in PDF format.
