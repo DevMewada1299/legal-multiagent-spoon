@@ -4,6 +4,8 @@ This project is a Streamlit web application that uses a multi-agent AI system to
 
 For trying it out please go to this link for a sample document and a key : https://drive.google.com/drive/folders/1HMsPRjaaqmop1GLCFYcn6p5q3CN31gzu?usp=sharing (Prototype)
 
+Special Thanks to TRAE for providing an AI-Native IDE, accelerating our throuphput by 3x :) 
+
 ## Features
 
 *   **PDF Document Upload**: Easily upload legal documents in PDF format.
