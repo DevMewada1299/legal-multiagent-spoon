@@ -83,9 +83,3 @@ streamlit run app/ui/streamlit_app.py
 ## Deployment
 
 This application is ready to be deployed to Streamlit Community Cloud.
-
-1.  **Push your code to a public GitHub repository.**
-2.  **Go to [share.streamlit.io](https://share.streamlit.io) and sign in with your GitHub account.**
-3.  **Click "New app" and select your repository.**
-4.  **Set the main file path to `app/ui/streamlit_app.py`.**
-5.  **Click "Deploy!".**
