@@ -1,5 +1,5 @@
 spoon-ai-sdk
-fitz
+PyMuPDF
 numpy
 faiss-cpu
 sentence-transformers
