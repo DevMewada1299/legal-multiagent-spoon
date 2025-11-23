@@ -1,1 +1,2 @@
 from .obligation_extractor import ObligationExtractor
+from .gemini_extractor import GeminiExtractor

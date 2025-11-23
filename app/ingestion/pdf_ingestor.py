@@ -1,4 +1,4 @@
-import fitz  # PyMuPDF
+import pymupdf as fitz  # PyMuPDF
 from typing import List, Dict, Any
 from .base import Ingestor
 

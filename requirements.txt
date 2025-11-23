@@ -1,7 +1,11 @@
 spoon-ai-sdk
-fitz
+pymupdf
 numpy
 faiss-cpu
 sentence-transformers
 streamlit
 gradio
+google-generativeai
+python-dotenv
+pydantic
+anthropic
