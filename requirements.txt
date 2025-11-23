@@ -1,0 +1,7 @@
+spoon-ai-sdk
+fitz
+numpy
+faiss-cpu
+sentence-transformers
+streamlit
+gradio
