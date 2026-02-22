@@ -1,4 +1,4 @@
-# Legal Document Analysis with Multi-Agent AI
+# Legal Document Analysis with Multi-Agent AI (Finalist in ScoopAI hackathon hosted by UC Berkeley and Stanford)
 
 This project is a Streamlit web application that uses a multi-agent AI system to analyze legal documents. Users can upload a PDF, and the application will identify and categorize key risks and obligations within the text, providing a comprehensive summary and a clause-by-clause analysis.
 
